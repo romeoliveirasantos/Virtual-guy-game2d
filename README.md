@@ -1,5 +1,5 @@
 <div style="display:flex">
-<h1>Virtual Guy</h1> <img src="https://iili.io/b7ZsZx.png">
+<h1>Virtual Guy <img src="https://iili.io/b7ZsZx.png"></h1> 
 <div>
 <p>Meu primeiro projeto referente a Game, Virtual Guy é um jogo 2d no estilo plataforma, onde o personagem principal precisa coletar o maior número de abacaxi possível <strong>(sua fruta predileta)</strong> e chegar ao seu objeto final!</p>
 <br><br>
@@ -12,6 +12,6 @@
 <p>1- descompacte o arquivo .ZIP</p>
 <p>1- Execute o arquivo My project.EXE</p>
 
-<img src="https://iili.io/b7Dcfp.md.png">
+<img width="1920px" align="center" src="https://iili.io/b7Dcfp.md.png">
 
 
