@@ -1,7 +1,7 @@
 <div style="display:flex">
 <h1>Virtual Guy <img src="https://iili.io/b7ZsZx.png"></h1> 
 <div>
-<p>Meu primeiro projeto referente a Game, Virtual Guy é um jogo 2d no estilo plataforma, onde o personagem principal precisa coletar o maior número de abacaxi possível <strong>(sua fruta predileta)</strong> e chegar ao seu objeto final!</p>
+<p>Meu primeiro projeto referente a Game.<br> Virtual Guy é um jogo 2D no estilo plataforma, onde o personagem principal precisa coletar a maior quantidade possível de abacaxi <strong>(sua fruta predileta)</strong> e chegar ao seu Objetivo final! <p>
 <br><br>
 
 <h2>Faça o download da build no link abaixo.</h2>
