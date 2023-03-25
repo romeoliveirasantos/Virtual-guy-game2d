@@ -5,7 +5,7 @@
 <br><br>
 
 <h2>Faça o download da build no link abaixo.</h2>
-<p><a href="https://drive.google.com/drive/folders/1kb-4xZtYGXSTVjYItnFkCuYDxHRWoJ60?usp=share_link">LINK</a></p>
+<p><a href="https://drive.google.com/drive/folders/1LxxjxA3ux-n_lg-Sa-8XSPQGPURulMRi?usp=sharing" target="_blank">LINK</a></p>
 <br><br>
 <h3>Como Jogar:</h3>
 <p>1- Baixe a build do jogo no link acima</p>
